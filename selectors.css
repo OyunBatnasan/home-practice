@@ -1,0 +1,10 @@
+a{
+  text-decoration: none;
+}
+a: visited {
+  color:orange;
+}
+
+footer a:visied{
+  color:red;
+}
